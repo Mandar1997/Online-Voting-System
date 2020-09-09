@@ -1,0 +1,38 @@
+body{
+	margin:0 auto;
+	background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("https://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2015/11/18/Photos/biharpolls-klxE--621x414@LiveMint.jpg");
+	background-size:100% 720px;
+	background-repeat:no-repeat;
+}
+
+p{
+	color:white;
+	width:1000px;
+	padding:5px;
+}
+
+.container{
+	width:1000px;
+	margin:0 auto;
+	padding:10px;
+}
+
+.heading{
+	color:white;
+	text-align:center;
+	width:100%;
+	padding:7px;
+	font-family:Comic Sans MS
+}
+
+h2{
+	color:white;
+	width:1000px;
+	padding:10px;
+}
+
+h3{
+	color:white;
+	width:1000px;
+	padding:10px;
+}

@@ -1,0 +1,12 @@
+h1 a{
+	color:white;
+	width:100%;
+	padding:10px;
+}
+
+body{
+	margin:0 auto;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)),url("http://im.rediff.com/news/2016/apr/21voting.jpg");
+	background-size:100% 720px;
+	background-repeat:no-repeat;
+}

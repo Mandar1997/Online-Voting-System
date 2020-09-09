@@ -1,0 +1,26 @@
+#login{
+	background-color:yellow;
+	padding:5px;
+	color:black;
+	width:10%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+body{
+	margin:0 auto;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)),url("https://ichef.bbci.co.uk/news/660/media/images/74149000/jpg/_74149479_votinginjammu.jpg");
+	background-size:100% 720px;
+	background-repeat:no-repeat;
+}
+
+.container{
+	width:550px;
+	height:250px;
+	text-align:center;
+	background-color:skyblue;
+	border-radius:20px;
+	margin:0 auto;
+	margin-top:200px;
+}

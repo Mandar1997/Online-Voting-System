@@ -1,0 +1,27 @@
+#submit{
+	background-color:lime;
+	padding:5px;
+	color:black;
+	width:10%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+body{
+	margin:0 auto;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)),url("http://im.rediff.com/news/2016/apr/21voting.jpg");
+	background-size:100% 720px;
+	background-repeat:no-repeat;
+}
+
+.container{
+	width:800px;
+	height:550px;
+	text-align:center;
+	background-color:skyblue;
+	border-radius:20px;
+	margin:0 auto;
+	margin-top:80px;
+}
+
